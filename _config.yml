@@ -1,5 +1,5 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://liberaiderspark.com
+baseurl: /
 
 # Site settings
 title: Awesome Title
@@ -9,9 +9,9 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: James Trimble
   pic: 1
-  position: Lead Designer
+  position: Chief of Innovation
   social:
     - title: twitter
       url: #
@@ -45,9 +45,9 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/
   - title: facebook
-    url:
+    url: https://facebook.com/robinssparkhub
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket 
@@ -57,8 +57,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Bldg 35, Perimeter Rd
+  - line: Robins AFB, GA 31098
 
 # Build settings
 markdown: kramdown
