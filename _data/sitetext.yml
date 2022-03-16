@@ -11,9 +11,11 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Welcome to our Spark Hub!
+    text: The Possibilities Are Infinite
+    # text: Dreams Made Real
+    # text: Innovation Starts With You
+    button: Accelerate Change
     buttonlink: "#services"
 
   services:
@@ -21,15 +23,18 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Problem Solving & Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Funding & Resources"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Education & Training"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
+      - title: "Implementation"
+        desc: "xyz"
+        icon: fab fa-laptop
 
   portfolio:
     title: "Portfolio"
