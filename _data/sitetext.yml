@@ -12,9 +12,9 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to our Spark Hub!
-    text: The Possibilities Are Infinite
+    # text: The Possibilities Are Infinite
     # text: Dreams Made Real
-    # text: Innovation Starts With You
+    text: Innovation Starts With You
     button: Accelerate Change
     buttonlink: "#services"
 
@@ -26,35 +26,32 @@ en: &DEFAULT_EN
       - title: "Problem Solving & Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Funding & Resources"
+      - title: "Training & Resources"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "Education & Training"
+      - title: "Funding & Implementation"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
-      - title: "Implementation"
-        desc: "xyz"
-        icon: fab fa-laptop
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Check Out Our Projects"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "It Started With A Spark"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
       - title: "Our Humble Beginnings"
-        year: "2009-2011"
+        year: "XYZ 2019"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
+      - title: "An Organization Is Born"
         year: "March 2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
@@ -75,7 +72,7 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
+    text: "Our Story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
