@@ -130,6 +130,10 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+            
+  resources:
+  
+  events:
 
   contact:
     title: "Contact Us"
