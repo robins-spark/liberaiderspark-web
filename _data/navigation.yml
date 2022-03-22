@@ -19,8 +19,12 @@ en: &DEFAULT_EN
       section: about
     - title: "Timeline"
       section: timeline
-    - title: "Team"
-      section: team
+    - title: "Resources"
+      section: resources
+    - tite: "Events"
+      section: events
+    - title: "Airman Innovators"
+      section: team    
     - title: "Contact"
       section: contact
     - title: "Theme Source"
