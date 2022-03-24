@@ -34,10 +34,10 @@ en: &DEFAULT_EN
         icon: fab fa-sack-dollar
 
   portfolio:
-    title: "Portfolio"
+    title: "Projects"
     text: "Check Out Our Projects"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close Projects"
 
   timeline:
     title: "Timeline"
