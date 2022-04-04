@@ -19,6 +19,10 @@
     function start() {
       $.getJSON("lockers.json", function(json) {
           console.log(json); // this will show the info it in firebug console
+          for (i=0; i < json['lockers'].length; i++){
+            console.log(json['lockers'][i].lat);
+            console.log(json['lockers'][i].long);
+          }
       });
       
       var map = L.map('map').setView([51.505, -0.09], 13);
