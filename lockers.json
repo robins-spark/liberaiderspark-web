@@ -2,8 +2,9 @@
   "lockers": [
     {
       "base": "Robins AFB",
-      "lat": 32.64086790369981, 
-      "long": -83.59163321802878
+      "lat": 32.6020882841621,  
+      "long": -83.58168063209996,
+      "desc": "POC: SrA Ricardo Morales"
     }
   ]
 }
