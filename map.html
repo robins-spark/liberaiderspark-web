@@ -24,7 +24,7 @@
             console.log(json['lockers'][i].long);
             tempMarker = L.marker([json['lockers'][i].lat, json['lockers'][i].long]).addTo(map);
             tempMarker.bindPopup(json['lockers'][i].desc);
-            tempMarker.onClick = function () { this.openPopup(); }
+            
           }
       });
       //48.5580659,-101.4385573
