@@ -5,6 +5,11 @@
       "lat": 32.6020882841621,  
       "long": -83.58168063209996,
       "desc": "POC: SrA Ricardo Morales"
-    }
+    },
+    {
+      "base": "Tyndall AFB",
+      "lat": 30.081427206135345, 
+      "long": -85.61638652595141,
+      "desc": "POC: "
   ]
 }
